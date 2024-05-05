@@ -14,7 +14,6 @@
 		B91B5E3C2BE75A2300DEA4A2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B91B5E3B2BE75A2300DEA4A2 /* Assets.xcassets */; };
 		B91B5E3F2BE75A2300DEA4A2 /* Base in Resources */ = {isa = PBXBuildFile; fileRef = B91B5E3E2BE75A2300DEA4A2 /* Base */; };
 		B91B5E492BE778DE00DEA4A2 /* Model.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B91B5E472BE778DE00DEA4A2 /* Model.xcdatamodeld */; };
-		B91B5E4B2BE7818E00DEA4A2 /* VideoInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91B5E4A2BE7818E00DEA4A2 /* VideoInfo.swift */; };
 		B91B5E4D2BE781CA00DEA4A2 /* VideoCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91B5E4C2BE781C900DEA4A2 /* VideoCell.swift */; };
 /* End PBXBuildFile section */
 
@@ -28,7 +27,6 @@
 		B91B5E3E2BE75A2300DEA4A2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B91B5E402BE75A2300DEA4A2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B91B5E482BE778DE00DEA4A2 /* Model.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = Model.xcdatamodel; sourceTree = "<group>"; };
-		B91B5E4A2BE7818E00DEA4A2 /* VideoInfo.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoInfo.swift; sourceTree = "<group>"; };
 		B91B5E4C2BE781C900DEA4A2 /* VideoCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VideoCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -65,7 +63,6 @@
 				B91B5E322BE75A2200DEA4A2 /* AppDelegate.swift */,
 				B91B5E342BE75A2200DEA4A2 /* SceneDelegate.swift */,
 				B91B5E362BE75A2200DEA4A2 /* ViewController.swift */,
-				B91B5E4A2BE7818E00DEA4A2 /* VideoInfo.swift */,
 				B91B5E4C2BE781C900DEA4A2 /* VideoCell.swift */,
 				B91B5E382BE75A2200DEA4A2 /* Main.storyboard */,
 				B91B5E3B2BE75A2300DEA4A2 /* Assets.xcassets */,
@@ -149,7 +146,6 @@
 			files = (
 				B91B5E372BE75A2200DEA4A2 /* ViewController.swift in Sources */,
 				B91B5E332BE75A2200DEA4A2 /* AppDelegate.swift in Sources */,
-				B91B5E4B2BE7818E00DEA4A2 /* VideoInfo.swift in Sources */,
 				B91B5E352BE75A2200DEA4A2 /* SceneDelegate.swift in Sources */,
 				B91B5E492BE778DE00DEA4A2 /* Model.xcdatamodeld in Sources */,
 				B91B5E4D2BE781CA00DEA4A2 /* VideoCell.swift in Sources */,
